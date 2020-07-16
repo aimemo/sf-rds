@@ -30,12 +30,12 @@
 3 **color** - цвет кузова  
 4 **fuelType** - тип топлива  
 5 **modelDate** - год выпуска модели  
-6 **name** - модель и технические характеристики 
+6 **name** - модель и технические характеристики   
 7 **numberOfDoors** - количество дверей  
 8 **productionDate** - год выпуска авто  
 9 **vehicleConfiguration** - конфигурация кузова  
 10 **vehicleTransmission** - трансмиссия  
-11 **engineDisplacement** - объем двигателя 
+11 **engineDisplacement** - объем двигателя  
 12 **enginePower** - мощность двигателя  
 13 **description** - описание  
 14 **mileage** - пробег  
